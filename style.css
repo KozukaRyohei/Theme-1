@@ -73,12 +73,9 @@ footer {
   .step-box {
     width:90%;
     margin: 0 auto 20px auto;
+    font-size:12px;
   }
   .step-box:last-child {
   margin: 0 auto;
-  }
-
-  .text {
-    font-size:12px;
   }
 }
