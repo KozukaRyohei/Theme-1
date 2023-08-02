@@ -78,4 +78,11 @@ footer {
   .step-box:last-child {
   margin: 0 auto;
   }
+  .title {
+    letter-spacing:2px;
+  }
+  .step-num {
+    letter-spacing:1px;
+    padding:2px;
+  }
 }
